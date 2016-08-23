@@ -1,14 +1,21 @@
 #clock {
+  position:fixed;
 }
 
 #clock img {
-}
+  }
+
 
 #hour {
+  position:fixed;
 }
 
 #minute {
+  position:fixed;
+  z-index: 9;
 }
 
 #second {
+  position:fixed;
+  z-index: 10;
 }
